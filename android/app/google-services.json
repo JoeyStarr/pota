@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "130898531440",
+    "project_id": "potager-77cc3",
+    "storage_bucket": "potager-77cc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130898531440:android:c74d53b3663e82698d90b5",
+        "android_client_info": {
+          "package_name": "com.djipota.potager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130898531440-e4e19ms09kroulht5nivef08qv6hai7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.djipota.potager",
+            "certificate_hash": "36b70d107818475fce80d0912e7c36e3d6440660"
+          }
+        },
+        {
+          "client_id": "130898531440-8vcf24jp8p9vpl41fphpt23n8eedq6tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqamcYYIqMgGltIOfC3CwMSqn3JHHCzLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130898531440-8vcf24jp8p9vpl41fphpt23n8eedq6tm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "130898531440-osuthf9s4k1hmh4r9k26ukq9ashqi9fk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.djipota.potager"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
