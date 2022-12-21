@@ -7,6 +7,8 @@ import * as SplashScreen from "expo-splash-screen";
 // Firebase
 import "./src/config/firebase";
 
+//
+
 // Root Navigation
 import RootNavigation from "./src/navigation/Stack";
 
